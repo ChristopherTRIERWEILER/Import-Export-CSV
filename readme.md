@@ -3,6 +3,10 @@ Import/Export Fichier Excel en Base de donnée
 
 Cet outil permet l'importation/l'exportation de la base de donnée au format excel (CSV).
 
+MAJ 10/10/17
+
+Ajout d'un script (convert.php) de conversion LAT/LNG des adresses importer en CSV + MAJ de la base de données.
+
 Comment l'utiliser ?
 --------------
 
